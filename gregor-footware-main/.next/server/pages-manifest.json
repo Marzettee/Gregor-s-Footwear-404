@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/receipts": "pages/api/receipts.js",
+  "/dashboard": "pages/dashboard.js",
+  "/receipts": "pages/receipts.js",
+  "/api/dashboard/transaction": "pages/api/dashboard/transaction.js",
+  "/api/receipt/[id]": "pages/api/receipt/[id].js",
+  "/api/dashboard/receiptCount": "pages/api/dashboard/receiptCount.js",
+  "/api/sales/all": "pages/api/sales/all.js",
+  "/api/dashboard/serviceDisplay": "pages/api/dashboard/serviceDisplay.js",
+  "/api/dashboard/salesDisplay": "pages/api/dashboard/salesDisplay.js"
+}
